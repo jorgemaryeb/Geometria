@@ -2,6 +2,7 @@
  * la vamos a usar para realizar
  * diversos cálculos de geometría
  * @author Jorge
+ * @author George
  * @version 1.0
 */
 
